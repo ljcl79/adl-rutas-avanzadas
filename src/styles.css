@@ -1,0 +1,18 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.active {
+    color: darkgreen;
+    background-color: bisque;
+    font-size: 1rem;
+    padding: 0.5em;
+}
+
+.inactive {
+    color: red;
+    font-size: 1rem;
+    padding: 0.5em;
+}
+
